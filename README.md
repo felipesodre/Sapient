@@ -1,6 +1,6 @@
 # Sapient
 
-This a basic IT Programming Test, built on Java 8.
+This a basic IT Programming Test, built in Java 8.
 
 To execute Java 8 is required.
 
